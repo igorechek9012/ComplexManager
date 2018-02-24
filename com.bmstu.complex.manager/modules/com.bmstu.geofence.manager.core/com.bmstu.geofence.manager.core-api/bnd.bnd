@@ -1,0 +1,9 @@
+Bundle-Name: com.bmstu.geofence.manager.core-api
+Bundle-SymbolicName: com.bmstu.geofence.manager.core.api
+Bundle-Version: 1.0.0
+Export-Package:\
+	com.bmstu.geofence.manager.core.exception,\
+	com.bmstu.geofence.manager.core.model,\
+	com.bmstu.geofence.manager.core.service,\
+	com.bmstu.geofence.manager.core.service.persistence
+-includeresource: META-INF/service.xml=../com.bmstu.geofence.manager.core-service/service.xml

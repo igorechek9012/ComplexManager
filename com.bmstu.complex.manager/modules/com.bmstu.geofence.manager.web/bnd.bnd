@@ -1,0 +1,4 @@
+Bundle-Name: com.bmstu.geofence.manager.web
+Bundle-SymbolicName: com.bmstu.geofence.manager.web
+Bundle-Version: 1.0.0
+Export-Package: com.bmstu.geofence.manager.web.constants
